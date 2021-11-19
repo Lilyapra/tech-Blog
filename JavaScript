@@ -6,6 +6,63 @@
     <title>replit</title>
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
+   <h1> JAVAscript</h1>
+   <p> You can write java in html to make a popup message appear when a website is opened.    </p>
+   <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLJGLV" data-user="lily-A" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/lily-A/pen/jOLJGLV">
+  Untitled</a> by lily A (<a href="https://codepen.io/lily-A">@lily-A</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+   
+   <h3>ARRAYS </h3>
+  <p> Arrays are like python lists.Arrays are a special type of objects. The typeof operator in JavaScript returns "object" for arrays. </p>
+  
+  <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLJGLV" data-user="lily-A" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/lily-A/pen/jOLJGLV">
+  Untitled</a> by lily A (<a href="https://codepen.io/lily-A">@lily-A</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<h3>  Statement  </h3>
+<p>A computer program is a list of "instructions" to be "executed" by a computer.
+In a programming language, these programming instructions are called statements.
+A JavaScript program is a list of programming statements.JavaScript statements are composed of:.Values, Operators, Expressions, Keywords, and Comments. </p>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLJGLV" data-user="lily-A" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/lily-A/pen/jOLJGLV">
+  Untitled</a> by lily A (<a href="https://codepen.io/lily-A">@lily-A</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<h3>Console.log  ( )</h3>
+<p>The console.log() is a function in JavaScript which is used to print any kind of variables defined before in it or to just print any message that needs to be displayed to the user.
+
+ If the number is passed to the function console.log() then the function will display it. </p>
+
+ <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLJGLV" data-user="lily-A" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/lily-A/pen/jOLJGLV">
+  Untitled</a> by lily A (<a href="https://codepen.io/lily-A">@lily-A</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+<p> If the function is passed to the function console.log(), then the function will display the value of the passed function().</p>
+
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="jOLJGLV" data-user="lily-A" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/lily-A/pen/jOLJGLV">
+  Untitled</a> by lily A (<a href="https://codepen.io/lily-A">@lily-A</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+  
+  
+  
+  
+  
   <body>
     Hello world
     <script src="script.js"></script>
